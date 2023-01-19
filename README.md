@@ -13,7 +13,7 @@ ile VSC de projemizi açıyoruz
 Projeye dilediğimiz değişiklikleri ekleyebiliriz
 
 # Lisence
-
+MIT
 
 
 
