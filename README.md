@@ -12,8 +12,10 @@ ile VSC de projemizi açıyoruz
 # Contributing
 Projeye dilediğimiz değişiklikleri ekleyebiliriz
 
-# Lisence
+# License
 MIT
+
+![Proje resmi](https://app.patika.dev/courses/git/odev1/markdown.png)
 
 
 
