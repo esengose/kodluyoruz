@@ -2,10 +2,9 @@
 Kodluyoruz  kapsamında açtığım repo.İçerisinde  README dosyası ve index.html barındırıyor.
 
 # Installation
-git clone https://github.com/esengose/kodluyoruzilkrepo.git
 
 # Usage
-* cd kodluyoruzilkrepo
+* cd kodluyoruz
 * code.     
 ile VSC de projemizi açıyoruz
 
