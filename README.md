@@ -1,5 +1,5 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+# kodluyoruz
+Kodluyoruz  kapsamında açtığım repo.İçerisinde  README dosyası ve index.html barındırıyor.
 
 # Installation
 git clone https://github.com/esengose/kodluyoruzilkrepo.git
